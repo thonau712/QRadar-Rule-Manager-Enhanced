@@ -42,7 +42,7 @@ QRadar Rule Manager - Enhanced is an extended version of the [QRadar-Rule-Manage
 - When using GitHub/GitLab, ensure your token has the necessary read/write permissions.
 
 ## Acknowledgment
-Special thanks to **Koifman**, the author of [QRadar-Rule-Manager](https://github.com/Koifman/QRadar-Rule-Manager), for allowing the public release of these enhancements. The original tool serves as a crucial foundation for expanding and improving functionalities for managing QRadar SIEM.
+Special thanks to **Mr.Koifman**, the author of [QRadar-Rule-Manager](https://github.com/Koifman/QRadar-Rule-Manager), for allowing the public release of these enhancements. The original tool serves as a crucial foundation for expanding and improving functionalities for managing QRadar SIEM.
 
 ---
 *For contributions or feedback, please open an issue or create a pull request on this repository.*
