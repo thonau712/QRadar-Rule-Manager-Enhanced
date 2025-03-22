@@ -33,7 +33,13 @@ QRadar Rule Manager - Enhanced is an extended version of the [QRadar-Rule-Manage
    - Select the rule(s) to export and click "Export".
    - To import rules, select a `.zip` file and click "Import".
 
-3. **GitHub/GitLab Integration**
+3. **Manage Rule States**
+   - Select a rule from the list.
+   - Click **"Enable"** to activate the rule.
+   - Click **"Disable"** to deactivate the rule.
+   - Click **"Delete"** to remove the rule from QRadar.
+
+4. **GitHub/GitLab Integration**
    - Provide your GitHub/GitLab token for authentication.
    - Upload or download rules directly from the repository.
 
