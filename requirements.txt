@@ -1,0 +1,11 @@
+# Core dependencies
+PyQt6>=6.0.0
+requests>=2.25.0
+
+# Git integration
+PyGithub>=2.1.1
+python-gitlab>=3.15.0
+
+# Utilities
+pathlib>=1.0.1
+urllib3>=2.0.0
